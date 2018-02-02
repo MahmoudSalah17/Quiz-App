@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <CheckedTextView
+        android:layout_width="match_parent"
+        android:id="@+id/first_question"
+        android:padding="8dp"
+        android:text="@string/first_question_text"
+        android:layout_height="wrap_content" />
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:padding="8dp"
+        android:id="@+id/first_question_radio_group"
+        android:layout_height="wrap_content">
+        <RadioButton
+            android:layout_width="match_parent"
+            android:text="@string/true_choice"
+            android:id="@+id/true_choice"
+            android:layout_height="wrap_content" />
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/false_choice"/>
+    </RadioGroup>
+</LinearLayout>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="first_question_text"> 1- The first video game consoles were sold in the late 1970</string>
+    <string name="true_choice">True</string>
+    <string name="false_choice">False</string>
+    <string name="welcome_text">Simple Game Dev Quiz !</string>
+    <string name="second_question_text"> 2- A previsualization tool used to outline and organize the sequence of events in a game</string>
+    <string name="story_board">Storyboard</string>
+    <string name="simulator">Simulator</string>
+    <string name="frame">Frame</string>
+    <string name="multimedia">Multimedia</string>
+    <string name="submit_text">SUBMIT</string>
+    <string name="third_question_text"> 3- Which of these game engines are available commercially ? Check All That Apply.</string>
+    <string name="untiy">Unity</string>
+    <string name="unreal">Unreal</string>
+    <string name="anvil">Anvil</string>
+    <string name="game_maker">Game Maker</string>
+    <string name="fourth_question"> 4- What does GUI stands for ? Write the answer is small letters separated by spaces .</string>
+    <string name="fifth_question_text">5- A complete screen , or the set of elements respresenting it .</string>
+    <string name="retake">RETAKE QUIZ</string>
+</resources>

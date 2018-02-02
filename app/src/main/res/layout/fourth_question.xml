@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <CheckedTextView
+        android:layout_width="match_parent"
+        android:id="@+id/fourth_question"
+        android:padding="8dp"
+        android:text="@string/fourth_question"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:layout_width="match_parent"
+        android:id="@+id/answer_edit_text"
+        android:padding="8dp"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        tools:ignore="LabelFor" />
+</LinearLayout>
